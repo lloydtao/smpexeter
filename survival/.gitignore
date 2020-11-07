@@ -1,0 +1,10 @@
+cache/
+logs/
+world/
+world_nether/
+world_the_end/
+
+usercache.json
+version_history.json
+
+.console_history
