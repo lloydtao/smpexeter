@@ -21,7 +21,7 @@ then
         echo $server" does not appear to be a valid binary."
     else
         echo "Launching Minecraft server."
-        java -Xms128M -Xmx"$memory"M -jar "$server"
+        java -Xms128M -Xmx"$memory"M -jar "$server" nogui
     fi
 else
     echo "Could not find: "$server
