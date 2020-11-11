@@ -1,3 +1,4 @@
+# Minecraft
 cache/
 logs/
 world/
@@ -9,6 +10,8 @@ version_history.json
 
 .console_history
 
+
+# Dynmap
 plugins/dynmap/colorschemes/
 plugins/dynmap/export/
 plugins/dynmap/markers/
@@ -30,3 +33,8 @@ plugins/dynmap/world_nether.pending
 plugins/dynmap/world_the_end.pending
 plugins/dynmap/ids-by-ip.txt
 plugins/dynmap/version.txt
+
+
+# Fast Chunk Pregenerator
+plugins/FastChunkPregenerator/loaded
+plugins/FastChunkPregenerator/taskLoadCache.json
