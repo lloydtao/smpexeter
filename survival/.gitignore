@@ -1,17 +1,16 @@
-# Minecraft
+# ---- Minecraft ---- #
 cache/
 logs/
 world/
 world_nether/
 world_the_end/
 
+.console_history
 usercache.json
 version_history.json
 
-.console_history
 
-
-# Dynmap
+# ---- Dynmap ---- #
 plugins/dynmap/colorschemes/
 plugins/dynmap/export/
 plugins/dynmap/markers/
@@ -35,13 +34,13 @@ plugins/dynmap/world_nether.pending
 plugins/dynmap/world_the_end.pending
 
 
-# Fast Chunk Pregenerator
+# ---- Fast Chunk Pregenerator ---- #
 plugins/FastChunkPregenerator/loaded
 
 plugins/FastChunkPregenerator/taskLoadCache.json
 
 
-# FactionsUUID
+# ---- FactionsUUID ---- #
 plugins/Factions/data
 
 plugins/Factions/tags.json
