@@ -23,18 +23,26 @@ plugins/dynmap/templates/normal*
 plugins/dynmap/templates/nether*
 plugins/dynmap/templates/the_end*
 
+plugins/dynmap/ids-by-ip.txt
 plugins/dynmap/lightings.txt
 plugins/dynmap/markers.yml
 plugins/dynmap/markers.yml.old
 plugins/dynmap/perspectives.txt
 plugins/dynmap/shaders.txt
+plugins/dynmap/version.txt
 plugins/dynmap/world.pending
 plugins/dynmap/world_nether.pending
 plugins/dynmap/world_the_end.pending
-plugins/dynmap/ids-by-ip.txt
-plugins/dynmap/version.txt
 
 
 # Fast Chunk Pregenerator
 plugins/FastChunkPregenerator/loaded
+
 plugins/FastChunkPregenerator/taskLoadCache.json
+
+
+# FactionsUUID
+plugins/Factions/data
+
+plugins/Factions/tags.json
+plugins/Factions/lang.yml
