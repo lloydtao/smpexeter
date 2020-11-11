@@ -1,7 +1,7 @@
 #!/bin/bash
 
 memory="1024"
-server="server/paper-262.jar"
+server="paper-262.jar"
 
 echo "======== SMPExeter Minecraft Server ========"
 echo "Initialising SMPExeter server start-up."
