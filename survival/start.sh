@@ -1,6 +1,6 @@
 #!/bin/bash
 
-memory="1024"
+memory="2048"
 server="paper-262.jar"
 
 echo "======== SMPExeter Minecraft Server ========"
@@ -21,7 +21,7 @@ then
         echo $server" does not appear to be a valid binary."
     else
         echo "Launching Minecraft server."
-        java -Xms128M -Xmx"$memory"M -jar "$server" nogui
+        java -Xms1024M -Xmx"$memory"M -jar "$server" nogui
     fi
 else
     echo "Could not find: "$server
