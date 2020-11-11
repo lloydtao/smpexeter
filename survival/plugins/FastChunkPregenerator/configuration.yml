@@ -7,7 +7,7 @@ MaxMillisPerTick: 28.5
 WaitTicksBetween: 0
 
 # Only enable on Paper.
-AsyncChunkLoadingEnabled: false
+AsyncChunkLoadingEnabled: true
 
 # Increases chunk priority.
 # This could prevent loading of chunks that
