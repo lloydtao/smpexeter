@@ -8,3 +8,25 @@ usercache.json
 version_history.json
 
 .console_history
+
+plugins/dynmap/colorschemes/
+plugins/dynmap/export/
+plugins/dynmap/markers/
+plugins/dynmap/renderdata/
+plugins/dynmap/texturepacks/
+plugins/dynmap/web/
+
+plugins/dynmap/templates/normal*
+plugins/dynmap/templates/nether*
+plugins/dynmap/templates/the_end*
+
+plugins/dynmap/lightings.txt
+plugins/dynmap/markers.yml
+plugins/dynmap/markers.yml.old
+plugins/dynmap/perspectives.txt
+plugins/dynmap/shaders.txt
+plugins/dynmap/world.pending
+plugins/dynmap/world_nether.pending
+plugins/dynmap/world_the_end.pending
+plugins/dynmap/ids-by-ip.txt
+plugins/dynmap/version.txt
