@@ -1,0 +1,12 @@
+[Unit]
+Description=Minecraft Service
+After=default.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/minecraft/smpexeter/survival
+ExecStart=start.sh
+
+[Install]
+WantedBy=default.target
