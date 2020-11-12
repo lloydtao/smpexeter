@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+sudo yum -y install java-1.8.0
+sudo yum -y install git
+
+sudo git clone https://github.com/LloydTao/smpexeter.git /minecraft/smpexeter
+
+sudo cp /minecraft/smpexeter/survival/minecraft.service /etc/systemd/system/minecraft.service
+sudo systemctl daemon-reload
+sudo systemctl enable minecraft
+sudo systemctl start minecraft
