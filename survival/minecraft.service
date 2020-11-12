@@ -6,7 +6,7 @@ After=default.target
 Type=simple
 User=root
 WorkingDirectory=/minecraft/smpexeter/survival
-ExecStart=start.sh
+ExecStart=/bin/bash /minecraft/smpexeter/survival/start.sh
 
 [Install]
 WantedBy=default.target
