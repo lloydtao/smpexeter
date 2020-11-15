@@ -1,0 +1,56 @@
+/scoreboard objectives add Kills playerKillCount ["",{"text":"Player Kills","color":"green","bold":true}]
+/scoreboard objectives add Deaths deathCount ["",{"text":"Player Deaths","color":"green","bold":true}]
+/scoreboard objectives add Score xp ["",{"text":"Score","color":"green","green":true,"bold":true}]
+/scoreboard objectives add Level level ["",{"text":"Level","color":"green","green":true,"bold":true}]
+
+/scoreboard objectives add MobKills minecraft.custom:minecraft.mob_kills ["",{"text":"Mob Kills","color":"green","green":true,"bold":true}]
+/scoreboard objectives add DamageDealt minecraft.custom:minecraft.damage_dealt ["",{"text":"Damage Dealt","color":"green","green":true,"bold":true}]
+
+/scoreboard objectives add TimePlayed minecraft.custom:minecraft.play_one_minute ["",{"text":"Time Played","color":"green","green":true,"bold":true}]
+/scoreboard objectives add TimeAlive minecraft.custom:minecraft.time_since_death ["",{"text":"Time Alive","color":"green","green":true,"bold":true}]
+/scoreboard objectives add TimeAwake minecraft.custom:minecraft.time_since_rest ["",{"text":"Time Awake","color":"green","green":true,"bold":true}]
+
+/scoreboard objectives add DamageTaken minecraft.custom:minecraft.damage_taken ["",{"text":"Damage Taken","color":"green","green":true,"bold":true}]
+
+/scoreboard objectives add ItemsEnchanted minecraft.custom:minecraft.enchant_item ["",{"text":"Items Enchanted","color":"green","green":true,"bold":true}]
+
+/scoreboard objectives add Jumps minecraft.custom:minecraft.jump ["",{"text":"Jumps","color":"green","bold":true}]
+/scoreboard objectives add NoteblocksPlayed minecraft.custom:minecraft.play_noteblock ["",{"text":"Noteblocks Played","color":"green","bold":true}]
+/scoreboard objectives add NoteblocksTuned minecraft.custom:minecraft.tune_noteblock ["",{"text":"Noteblocks Tuned","color":"green","bold":true}]
+/scoreboard objectives add FlowersPotted minecraft.custom:minecraft.pot_flower ["",{"text":"Flower Potted","color":"green","bold":true}]
+/scoreboard objectives add FishCaught minecraft.custom:minecraft.fish_caught ["",{"text":"Fish Caught","color":"green","bold":true}]
+/scoreboard objectives add AnimalsBred minecraft.custom:minecraft.animals_bred ["",{"text":"Animals Bred","color":"green","bold":true}]
+/scoreboard objectives add BellsRung minecraft.custom:minecraft.bell_ring ["",{"text":"Bells Rung","color":"green","bold":true}]
+/scoreboard objectives add RecordsPlayed minecraft.custom:minecraft.play_record ["",{"text":"Records Played","color":"green","bold":true}]
+
+/scoreboard objectives add DistanceBoat minecraft.custom:minecraft.boat_one_cm ["",{"text":"Distance by Rowing","color":"green","bold":true}]
+/scoreboard objectives add DistanceFly minecraft.custom:minecraft.fly_one_cm ["",{"text":"Distance by Flying","color":"green","bold":true}]
+/scoreboard objectives add DistanceFall minecraft.custom:minecraft.fall_one_cm ["",{"text":"Distance by Falling","color":"green","bold":true}]
+/scoreboard objectives add DistanceHorse minecraft.custom:minecraft.horse_one_cm ["",{"text":"Distance by Horse","color":"green","bold":true}]
+/scoreboard objectives add DistancePig minecraft.custom:minecraft.pig_one_cm ["",{"text":"Distance by Pig","color":"green","bold":true}]
+/scoreboard objectives add DistanceClimb minecraft.custom:minecraft.climb_one_cm ["",{"text":"Distance by Climbing","color":"green","bold":true}]
+/scoreboard objectives add DistanceMinecart minecraft.custom:minecraft.minecart_one_cm ["",{"text":"Distance by Minecart","color":"green","bold":true}]
+/scoreboard objectives add DistanceCrouch minecraft.custom:minecraft.crouch_one_cm ["",{"text":"Distance by Crouching","color":"green","bold":true}]
+/scoreboard objectives add DistanceElytra minecraft.custom:minecraft.aviate_one_cm ["",{"text":"Distance by Elytra","color":"green","bold":true}]
+/scoreboard objectives add DistanceSprint minecraft.custom:minecraft.sprint_one_cm ["",{"text":"Distance by Sprinting","color":"green","bold":true}]
+/scoreboard objectives add DistanceSwim minecraft.custom:minecraft.swim_one_cm ["",{"text":"Distance by Swimming","color":"green","bold":true}]
+/scoreboard objectives add DistanceWalk minecraft.custom:minecraft.walk_one_cm ["",{"text":"Distance by Walking","color":"green","bold":true}]
+
+/scoreboard objectives add VillagerTrades minecraft.custom:minecraft.traded_with_villager ["",{"text":"Trades Made","color":"green","bold":true}]
+/scoreboard objectives add RaidsStarted minecraft.custom:minecraft.raid_trigger ["",{"text":"Raids Started","color":"green","bold":true}]
+/scoreboard objectives add RaidsWon minecraft.custom:minecraft.raid_win ["",{"text":"Raids Won","color":"green","bold":true}]
+
+/scoreboard objectives add CraftedBeacons minecraft.crafted:minecraft.beacon ["",{"text":"Beacons Made","color":"green","bold":true}]
+/scoreboard objectives add CraftedScrap minecraft.crafted:minecraft.netherite_scrap ["",{"text":"Netherite Scrap","color":"green","bold":true}]
+
+/scoreboard objectives add UsedGoldCarrots minecraft.used:minecraft.golden_carrot ["",{"text":"Garrots Eaten","color":"green","bold":true}]
+/scoreboard objectives add UsedGoldApples minecraft.used:minecraft.golden_apple ["",{"text":"Gapples Eaten","color":"green","bold":true}]
+
+/scoreboard objectives add BrokenStone minecraft.mined:minecraft.stone ["",{"text":"Stone Mined","color":"green","bold":true}]
+/scoreboard objectives add BrokenGlass minecraft.mined:minecraft.glass ["",{"text":"Glass Broken","color":"green","bold":true}]
+
+/scoreboard objectives add KillsEnderDragon minecraft.killed:minecraft.ender_dragon ["",{"text":"Ender Dragons","color":"red","bold":true}]
+/scoreboard objectives add KillsWither minecraft.killed:minecraft.wither ["",{"text":"Withers","color":"red","bold":true}]
+/scoreboard objectives add KillsWitherSkel minecraft.killed:minecraft.wither_skeleton ["",{"text":"Wither Skeletons","color":"red","bold":true}]
+/scoreboard objectives add KillsElderGuard minecraft.killed:minecraft.elder_guardian ["",{"text":"Elder Guardians","color":"red","bold":true}]
+ 
