@@ -10,7 +10,7 @@
         <a class="px-4" href="#">Gallery</a>
         <a class="px-4" href="#">Rules</a>
       </div>
-      <div class="mt-2 flex items-center text-sm text-gray-600">
+      <div class="hidden md:block mt-2 flex items-center text-sm text-gray-600">
         <a href="https://discord.gg/W6WsBZAAqZ">
           <button
             type="button"
