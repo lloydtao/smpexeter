@@ -54,7 +54,7 @@
         </div>
         <p class="mt-4 text-gray-600">Come and be part of the action!</p>
       </div>
-      <img class="w-1/2" src="~/assets/img/minecraft-clipart.png" />
+      <img class="py-8 lg:w-1/2" src="~/assets/img/minecraft-clipart.png" />
     </div>
   </section>
 </template>
