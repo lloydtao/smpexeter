@@ -42,6 +42,7 @@ jobs:
         run: yarn nuxt generate
 
       - name: Add and commit changes
+        working-directory: ${{ matrix.working-directory }}
         uses: EndBug/add-and-commit@v5
         with:
           author_name: LloydTao
