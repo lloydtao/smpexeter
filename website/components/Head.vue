@@ -7,7 +7,7 @@
         >
           Exeter Minecraft Society
         </h1>
-        <p class="text-xl lg:text-2xl mt-6 font-light text-gray-100">
+        <p class="text-xl lg:text-2xl mt-6 font-light text-gray-200">
           A friendly multiplayer survival world.
         </p>
         <div class="py-3">
@@ -52,7 +52,10 @@
             </button></a
           >
         </div>
-        <p class="mt-4 text-gray-600">Come and be part of the action!</p>
+        <p class="mt-4 text-gray-400">Server address:</p>
+        <p class="animate-pulse text-2xl md:text-3xl text-gray-100">
+          play.mcexe.co.uk
+        </p>
       </div>
       <img class="py-8 lg:w-1/2" src="~/assets/img/minecraft-clipart.png" />
     </div>
