@@ -11,7 +11,7 @@
           A friendly multiplayer survival world.
         </p>
         <div class="py-3">
-          <a href="http://mcexe.co.uk:8123">
+          <a href="http://map.mcexe.co.uk">
             <button
               type="button"
               class="py-3 px-5 bg-blue-500 hover:bg-blue-600 rounded text-white"
