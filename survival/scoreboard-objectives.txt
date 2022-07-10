@@ -6,7 +6,7 @@
 /scoreboard objectives add MobKills minecraft.custom:minecraft.mob_kills ["",{"text":"Mob Kills","color":"green","green":true,"bold":true}]
 /scoreboard objectives add DamageDealt minecraft.custom:minecraft.damage_dealt ["",{"text":"Damage Dealt","color":"green","green":true,"bold":true}]
 
-/scoreboard objectives add TimePlayed minecraft.custom:minecraft.play_one_minute ["",{"text":"Time Played","color":"green","green":true,"bold":true}]
+/scoreboard objectives add TimePlayed minecraft.custom:minecraft.play_time ["",{"text":"Time Played","color":"green","green":true,"bold":true}]
 /scoreboard objectives add TimeAlive minecraft.custom:minecraft.time_since_death ["",{"text":"Time Alive","color":"green","green":true,"bold":true}]
 /scoreboard objectives add TimeAwake minecraft.custom:minecraft.time_since_rest ["",{"text":"Time Awake","color":"green","green":true,"bold":true}]
 
