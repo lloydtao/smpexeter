@@ -1,5 +1,6 @@
 # ---- Minecraft ---- #
 cache/
+libraries/
 logs/
 world/
 world_nether/
