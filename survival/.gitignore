@@ -42,6 +42,10 @@ plugins/FastChunkPregenerator/loaded
 plugins/FastChunkPregenerator/taskLoadCache.json
 
 
+# ---- JoelGodOfWarPlugins ---- #
+plugins/DragonDropElytra/lang/
+plugins/ShulkerRespawner/lang/
+
 # ---- FactionsUUID ---- #
 plugins/Factions/data
 
